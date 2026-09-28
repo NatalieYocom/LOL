@@ -1,6 +1,4 @@
 # ClipBucket - Broadcasting like a boss!
-!['ClipBucket Screenshot'](http://clip-bucket.com/styles/default/images/laptop-large2.png)
-</br>
 
 <div align="center">
 <a href="http://demo.clipbucket.com/">View Demo</a> | <a href="http://clip-bucket.com/download">Download</a>
